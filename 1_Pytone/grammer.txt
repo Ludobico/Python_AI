@@ -1,0 +1,450 @@
+숫자 자료형
+int
+float
+
+자료형
+    순차자료형(순서개념이 존재함,인덱스 참조 및 슬라이스 가능)
+    str,list,tuple
+
+    비순차자료형(순서개념이 존재하지 않음,인덱스 접근 불가)
+    dict,set
+
+    가변자료형(값 변경 됨):list,dict,set
+    불변자료형(값 변경 안됨):str,tuple
+
+문자 자료형
+    여러 줄에 걸쳐서 문자열을 나타낼때 작은 따옴표나 큰따옴표를 연속으로 세번 기술해서 표현
+    '''mbc''', """mbc"""
+    '''abc
+    bbb
+    ccc'''
+
+
+    문자열 안에 작은 따음표나 큰 따옴표를 포함 시키고 싶을 때
+    "K'IM" , 'K"IM', "K\'IM"
+
+문자열 연산
+    a = 'mbc'
+    b = 'kbs'
+    a+b = 'mbckbs'
+    'abc'*3 = 'abcabcabc'
+
+문자열 인덱싱
+    파이썬에서 문자열의 시작위치 값은 0부터 시작
+    인덱스에 -를 사용하면 역순으로도 인덱싱이 가능
+
+문자열 슬라이싱
+    주어진 문자열에서 원하는 문자열을 인덱스를 이용해 추출
+    a='abcdefg'
+    a[0:4] == 'abcd'
+    a[-4:] == 'defg'
+
+문자열 출력과 포맷팅
+    print()
+    문자열 출력 함수
+
+    문자열 포맷팅(formating)
+    문자열 내에 어떤 값을 삽입하는 방법
+    %s 문자열
+    %c 문자1개
+    %d 정수
+    %o 8진수
+    %x 16진수
+    %% %출력
+    'I want %d bananas' % 5 => 'I want 5 bananas'
+    'I want %s %s' %(5, 'bananas') => 'I want 5 bananas'
+
+    format() 메서드
+    문자열 형식화에 사용
+    %기호 대신 {} 사용
+    {:10} 전체 10칸을 차지
+    {:>10} 전체 10칸을 차지하며 공백을 앞에 붙임
+    {:<10} 전체 10칸을 차지하며 공백을 뒤에 붙임
+    {:5f} 부동소수점의 소수점 아래 5자리까지 표시
+    {:,} 천단위 쉼표 표시
+    print('이름은 {}입니다.'.format('이기자'))
+    print('{1} 점수는 {0}점입니다. {0}점'.format(100, '수학'))
+    print('[{:15,}]'.format(1234567890))
+
+    문자열 관련 함수
+    upper() :소문자를 대문자로 바꾸기
+    lower() :대문자를 소문자로 바꾸기
+    lstrip() :왼쪽 공백지우기
+    rstrip() :오른쪽 공백지우기
+    strip() : 양쪽 공백지우기
+    print('hi'.upper()) => 'HI'
+
+    replace() :replace(바뀌게 될 문자열, 바꿀 문자열) 문자열 내의 특정한 값을 다른 값으로 치환
+    'C is language'.replace('C', 'Python') => 'Python is language'
+
+    split():괄호안에 아무것도 없으면 공백을 기준으로 문자열을나눔, 괄호안에 값이 있으면 값을 구분자로 문자열을 나눔
+    'abc def ghi'.split() => ['abc','def','ghi']
+
+리스트 자료형
+    리스트(list):순차 자료형이면서 가변 자료형
+    리스트는 다른 객체를 포함하여 저장하는 컨테이너형 객체이다
+    인덱스는 0부터 시작하며 역인덱스는 -1부터 시작한다.
+
+    a=[10, 10.5, 'Python']
+    a[2][0] => 'P'
+
+    리스트 슬라이싱
+    a = [1,2,3,4,5]
+    b = a[:2]
+    b => [1,2]
+    c = a[2:]
+    c => [3,4,5]
+    d = a[2:5]
+    d => [3,4,5]
+
+    리스트 관련함수
+    .append() 리스트의 맨 마지막에 데이터를 추가시킨다
+    .sort() 리스트의 요소를 순서대로 정렬해 준다.
+    key:정렬목적을 기준으로 하는 리턴값을 가지는 함수, reverse:오름차순(false 기본),내림차순(true)
+    b = ['mbc', 'SBs', 'Kbs']
+    b.sort(key=str.upper, reverse=True)
+
+    .reverse() 현재의 리스트를 그대로 리스트를 역순으로 뒤집음
+    .index() 리스트에 값이 있으면 값의 위치 값을 리턴한다. 없으면 오류 발생
+    .insert() insert(a,b) 는 리스트의 a번째 위치에 b를 삽입하는 함수
+    .remove() remove(x)는 리스트에서 첫 번쨰로 나오는 x를 삭제하는 함수이다.
+    .pop() pop(x)는 리스트의 x번째 요소를 돌려 주고 그 요소는 삭제한다.
+    .count() count(x)는 리스트 내에 x가 몇 개 있는지 조사하여 그 개수를 돌려준다.
+    .extend() extend(x)에서 x에는 리스트만 올 수 있으며 원래의 a 리스트에 x 리스트를 더하게 된다.
+    .del del a[x]는 x번째 요소 값을 삭제한다.
+
+튜플 자료형
+    순차 자료형이면서 불변 자료형으로 인덱싱과 슬라이싱이 가능하다
+    리스트와 차이점 => 리스트 [], 튜플()
+    리스트는 가변, 튜플은 불변
+    t5 = (1, 10.5, 'Python')
+    t5[0] => 1
+
+while문
+    조건식이 true면 문장1을 수행하고 거짓이면 while문을 빠져나옴
+    형식)while 조건식:
+            반복 수행할 문장
+
+    형식2)while 조건식:
+            반복 수행할 문장
+         else:
+            반복문 수행 완료 후 수행할 문장
+
+for문
+    반복 수행할 횟수가 정해진 경우에 사용되는 반복문임
+    형식)for 변수 in 반복 사용할 객체:
+            반복 수행할 문장
+    in 다음에는 반복 사용할 객체가 오며 문자열,리스트,튜플,딕셔너리,집합 등이 올 수 있다.
+    ex)for var in [1,10.5,'hello']:
+            print(val)
+    in다음에는 range()함수를 이용하여 반복수행에 사용할 수 있다.
+    for val in range(1, 10):
+        print(val)
+    break문 사용가능
+
+    형식2)for 변수 in 반복 사용할 객체:
+            반복 수행할 문장
+            else:
+                반복문 수행 완료 후 수행할 문장
+
+range() 함수
+형식(시작값,종료값,증감값)
+ex)range(1,11,1) => 1,2,3,4,5,6,7,8,9,10
+ex)range(2,11,2) => 2,4,6,8,10
+ex)range(10) => 0,1,2,3,4,5,6,7,8,9
+
+리스트 내포의 일반 문법은 다음과 같음
+    [표현식 for 항목 in 반복가능객체 if 조건문]
+    a = [1,2,3,4]
+    result = [num * 3 for num in a if num % 2 == 0]
+    print(result)
+
+break문
+    반복문에서 사용하며 반복문을 강제로 빠져 나갈 때 사용
+    ex)for val in range(10):
+            if val > 5:
+                break
+            print(val)
+
+continue문
+    continue
+    반복문에서 사용하며 continue문을 만나면 반복문의 시작점으로 제어가 이동된다
+    ex)for val in range(10):
+            if val > 5:
+                continue
+            print(val)
+
+    pass
+    문법적으로 문장이 필요하지만 어떠한 동작도 원치 않을 경우에 사용한다.
+    ex)if a > 10:
+            pass
+       else:
+            print(a)
+
+
+함수
+    함수의 종류
+        내장함수(기본함수)
+        라이브러리 or 패키지 함수
+        사용자 정의 함수
+
+    내장 함수(기본함수)
+        파이썬을 설치할 때 기본적으로 제공되는 함수
+        id()
+            대상 객체의 식별값을 구한다. ex)print(id(10))
+        sum(숫자 타입의 컨테이너 객체)
+            숫자 데이터의 합을 구한다 ex)print(sum([1,2,3,4]))
+        sorted(반복 가능한 데이터, key=None, reverse = False)
+            반복 가능한 데이터를 입력 받아서 이를 정렬된 리스트로 반환
+            key는 정렬한 기준을 넘겨준다.
+            reverse는 역순 정렬 시킬 것인지의 여부를 알려줌
+        len(컨테이너 객체)
+            객체가 가지고 있는 요소 개수를 구한다.
+            ex)print(len('pythone'))
+
+    enumerate()
+        순서가 있는 자료형(리스트,튜플,문자열)을 입력으로 받아 인덱스 값을 포함하는 enumerate 객체를 반환
+        형식) enumerate(객체,[시작값=0])
+        시작값은 생략가능하며 생략하면 0부터 시작
+        ex)for i,val in enumerate(['mbc','kbs','tvn']):
+                print(i, val)
+
+    open(파일명, [mode])
+        파일명에 접근할 수 있는 파일 객체를 반환하는 함수
+        mode가 생략되면 읽기전용(r)으로 파일 객페가 만들어짐
+        w:쓰기모드 r:읽기모드 a:추가모드 b:바이너리모드
+        ex)fp = open('test.txt', 'r')
+
+    라이브러리 or 패키지 함수
+        파이썬에서는 함수들을 기능별로 패키지 혹은 모듈에 포함시켜서 제공한다.
+        라이브러리나 모듈에 존재하는 함수를 사용하기 위해서는 import 시켜야한다.
+        ex)impot math as mat (as는 별칭)
+        ex2)from 모듈명 or 라이브러리명 import
+
+    사용자 정의 함수
+        사용자가 필요로 하는 기능을 직접 만들어 사용하는 함수
+        ex)def message():
+                print('hello python')
+           message()
+
+        가변 매개변수
+            함수를 정의할 때 인자 앞에 *을 붙이면 정해지지 않은 수의 매개변수를 받겠다는 의미
+            가변 매개변수는 입력 받은 인자를 튜플 형식으로 저장한다.
+            ex) def add(a, *b):
+                    hap = a
+                    for val in b:
+                        hap += val
+                    return hap
+                print(add (10,20,30))
+                print(add (10,20,30,40))
+        정의되지 않은 매개변수
+            정의되지 않은 매개변수는 딕셔너리 형식으로 전달되며 인자앞에 **를 붙여서 전달받는다.
+            ex) def add(a, **b):
+                    hap = a
+                    for val in b:
+                        hap += b[val]
+                    return hap
+                print(add (10, mbc=20, kbs=30))
+
+스코핑 룰
+    스코프 영역
+        변수나 객체 이름이 가지는 범위
+        스코프를 벗어난 변수의 접근은 오류를 발생
+        이름을 찾는 순서는 Local -> Global -> Built-in
+        Local은 이름이 만들어진 함수나 클래스 내부를 의미한다.
+        Global은 함수나 클래스 외부를 의미한다.
+        Built-in은 파이썬이 특별히 예약해둔 이름들을 말한다.
+
+클래스와 객체
+    객체지향 프로그래밍
+    프로그램을 객체와 객체간의 상호 관계를 중심으로 작성하자는 것이 객체 지향 프로그래밍이다.
+
+    클래스
+    객체들이 가지는 공통된 속성과 메서드로 정의 되어진 설계도면
+
+    객체
+    속성과 메서드를 가지고 있으며 이름을 붙일 수 있는 실체
+        속성:self라는 키워드와 함께 사용
+        메서드:클래스 안에 정의된 함수를 의미한다.
+
+    self
+    self는 객체 자신을 가리키는 참조이다
+    객체 메서드를 정의할 때에는 반드시 첫 번째 인자로 self가 와야 한다.
+    메소드를 호출할 때 첫번째 매개변수로 self를 사용하지 않는다.
+
+    객체 생성
+    형식) 변수명 =
+
+    생성자와 소멸자
+        생성자 __init__() 함수
+            객체가 생성될 때 자동으로 호출되는 메서드
+            속성을 정의하면서 초기화할 목적으로 사용
+        소멸자 __del__() 함수
+            객체가 소멸될 때 자동으로 호출되는 메서드
+
+접근 제한
+    파이썬은 밑줄(_)을 사용해서 접근제한을 구분한다.
+    밑줄이 없는 경우는 누구나 접근가능
+    밑줄이 하나(_)인 경우에는 비공개모드
+    밑줄이 두개(__)인 경우에는 객체 생성후 외부에서 직접적인 접근을 할 수 없음
+    밑줄이 두개(__)인 경우는 객체 내부에서는 접근이 가능하며 상속이 되지 않는다.
+
+파일과 예외처리
+    파일을 다루기 위해서는 크게 세단계 작업을 수행한다.
+    파일 열기 - open()
+    파일 사용 - read(),readline(),readlines(),write() 등
+    파일 닫기 - close()
+
+    파일 열기
+    형식)fp = open(파일_이름, [모드], [encoding = 인코딩_방식])
+    모드
+    'r' - 읽기 모드(기본)
+    'w' - 쓰기 모드
+    'a' - 첨부 모드
+    'b' - 이진 모드
+    't' - 텍스트 모드(기본)
+
+    파일 사용
+    write()
+        파일에 데이터를 출력하기 위해 사용한다.
+        fp.write()
+    read()
+        파일의 내용을 처음부터 끝까지 읽어서 문자열로 반환한다.
+        fp.read()
+
+    파일 입출력
+    with 문
+        파일을 다루는 작업을 할 떄 with문을 사용하면 파일은 자동으로 close된다
+        형식)with open('text.txt', 'rt', encoding='utf-8') as fp:
+            data = fp.read()
+
+    예외 처리
+    프로그램은 여러 가지 상황에 따라 종료가 되며 그 형태는 다음과 같다.
+    정상 종료
+        프로그램이 오류 없이 정상적으로 수행됐을 때
+    문법 error
+        프로그램 내에 문법적으로 잘못된 코드가 존재할 경우
+    논리 error
+        문법적인 error는 아니지만 잘못된 결과를 산출하는 경우
+    예외
+        프로그램에 문법 error나 논리 error는 없지만 상황에 따라 에러를 발생시키는 경우
+
+        예외 종류
+        내장 예외: 예외들이 미리 정의되어 있는 형태(ex:indexError 등)
+        사용자 정의 예외:사용자가 필요에 의해서 직접 예외를 정의하는 것
+
+    예외 처리
+    예외가 발생 시에 프로그램이 비정상적으로 종료하는 것을 방지하고 예외에 대한 적절한 처리를 한다.
+    형식)try:
+            코드 블록
+        except [예외_타입 [as 예외_변수]]:
+                예외 처리 코드
+        [else:
+                예외가 발생하지 않을 경우 수행할 코드
+        finally:
+                예외가 발생하든 하지 않든 try 블록 이후 수행할 코드]
+
+        except문은 예외처리 방식에 따라 다음의 세 가지 방식으로 작성할 수 있다.
+        특정 타입의 예외를 처리할 경우
+        - except 예외_타입:
+
+        특정 타입의 예외 객체를 변수로 받아서 예외 처리를 사용할 경우
+        - except 예외_타입 as 예외_변수:
+
+        모든 타입의 예외를 처리할 경우
+        - except:
+
+
+    raise 구문
+    상황에 따라 의도적으로 예외를 발생시켜야 할 경우 사용
+    def userid(lang):
+        if lang == 'python':
+            raise Exception('파이썬'
+        print(lang)
+    if __name__ == '__main__':
+        try:
+            userid('java')
+            userid('python')
+        except Exception as e:
+            print(e.args[0])
+
+    사용자 정의 예외
+    Exception 클래스를 상속받아 정의한다.
+    class jumsuException(Exception):
+        def __init__(self,msg):
+            self.message = msg
+
+    def input_jumsu():
+        jumsu = int(input('점수 입력 =>'))
+        if jumsu < 0:
+            raise jumsuException('0이상만 가능')
+        elif jumsu > 100:
+            raise jumsuException('100이하만 가능')
+        else:
+            return jumsu
+    if __name__ == '__main__':
+        try:
+            jumsu = input_jumsu()
+        except jumsuException as e:
+            print(e.args[0])
+        else:
+            print('점수는 %d다. % jumsu)
+
+표준 모듈
+    상수,변수,함수,클래스를 포함하는 코드가 저장된 파일을 의미
+    코드를 '모듈이름.py'로 저장
+
+    모듈 불러오기
+        import를 사용해서 불러올 수 있다.
+        ex)import 모듈명 or import 모듈명 as 별칭
+        ex)from 모듈명 import 변수명 as 별칭
+        ex)from 모듈명 import 함수명
+        ex)from 모듈명 import 클래스명
+        ex)from 모듈명 import *
+
+    내장 모듈
+        파이썬 설치시 함께 설치되는 모듈
+        ex)os,sys,math,time,datetime,random 등
+
+    패키지
+        모듈을 디렉토리 형식으로 구조화 한것
+        패키지내 각 디렉토리에는 __init__.py가 반드시 존재해야 한다.
+        __init__.py는 비어있거나 패키지내에 포함된 모듈들의 정보를 제공
+        ex)import 패키지명.모듈명
+        ex)from 패키지명 import 모듈명
+
+    os 모듈
+        운영체제에서 제공하는 정보를 제공하거나 운영체제의 기능을 사용할 수 있는 방법을 제공
+
+    time 모듈
+        날짜와 시간을 알아내기 위한 모듈
+        tm_year 년도
+        tm_mon 월
+        tm_mday 일
+        tm_hour 시
+        tm_min 분
+        tn_sec 초
+        time() 1970년 1월 1일 자정 이후로 누적된 초를 반환
+        sleep(초) 현재 동작중인 프로세스를 주어진 초만큼 정지
+
+    datetime 모듈
+        날짜와 시간에 관련된 클래스를 제공한다.
+
+sqlite 데이터베이스
+    mysql 이랑 문법 거의 같음
+    select * from member where irum='홍길동';
+
+    파이썬에서의 SQLITE
+    Cursor.fetchone()
+    조회된 결과에서 데이터 1개를 튜플형식으로 반환
+    res = Cursor.fetchone();
+
+    Cursor.fetchall()
+    조회된 결과에서 모든 데이터를 리스트 형태로 반환
+    res = Cursor.fetchall();
+
+    Cursor.close()
+    Cursor 객체를 닫는다
+
+    Connection.close()
+    연결을 끊는다.
