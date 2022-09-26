@@ -58,6 +58,9 @@ def thirdmenu():
         return False
     if(firstpage == 1):
         i = 1
+    elif(firstpage <= 0):
+        print('제대로 써라')
+        return False
     else:
         i = ((firstpage - 1) * 50) + 1
     r = 0
