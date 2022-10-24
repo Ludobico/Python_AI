@@ -1,7 +1,7 @@
-import matplotlib.pyplot as plt
 import cv2
-# 색상 공간 변환
-# 데이터 타입을 같게 유지하고 채널을 변환한다.(컬러 -> 흑백)
+import numpy as np
+import matplotlib.pyplot as plt
+# 가장자리 검출
 
 
 def img_show(title='image', img=None, figsize=(8, 5)):
@@ -38,9 +38,14 @@ def img_show(title='image', img=None, figsize=(8, 5)):
         plt.show()
 
 
-src = cv2.imread('./images/chess.jpg', cv2.IMREAD_COLOR)
-dst = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)
+img = cv2.imread('./images/sudoku.jpg')
+gx_k = np.array([[-1, 0, 1], [-2, 0, 2], [-1, 0, 1]])
+gy_k = np.array([[-1, -2, -1], [0, 0, 0], [1, 2, 1]])
 
-img_show(['src', 'dst'], [src, dst], (10, 5))
-cv2.waitKey()
+edge_gx = cv2.filter2D(img, -1, gx_k)
+edge_gy = cv2.filter2D(img, -1, gy_k)
+
+img_show(['img', 'edge_gx', 'edge_gy', 'edge_gx+gy'],
+         [img, edge_gx, edge_gy, edge_gx + edge_gy])
+cv2.waitKey(0)
 cv2.destroyAllWindows()
