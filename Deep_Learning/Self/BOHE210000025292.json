@@ -1,0 +1,1924 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0000025292",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHE210000025292"
+    },
+    "text": [
+      {
+        "content": "이건 너무 빡세",
+        "writer": "UgyqINko-_3MoXryhf14AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저거 칵테일같은데 희석할때 쓰는건데 왜 그걸 스트레이트로",
+        "writer": "UgxZ87Vtf9EguPJuMTN4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜이렇게 귀엽고 만지고싶져",
+        "writer": "UgyZY1Usy3jDCWEto9N4AaABAg",
+        "write_date": "2020-09-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준댕이들 이러는데 발음 찰지다",
+        "writer": "UgzSeKsfusazWnxp6UF4AaABAg",
+        "write_date": "2020-09-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜진짜 길거리에서 빵 터졌어욬앝윳음 감사합니다",
+        "writer": "UgxmeHPQMirTdqJ5KGl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 진짜 잠 못자 멈출 수 없어",
+        "writer": "UgyL_2f9mGcd7dYfjdB4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술은 근강에 안좋지만 너무 귀여워귀여워요힐링",
+        "writer": "UgwbwiwTbXn-rEoeX454AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 술에 불붙일거면 적어도 유리잔에다 종이컵 다 타버려요",
+        "writer": "Ugxwb2otzZ1uJO_TKrN4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순간 시간 뛰어가기 눌린줄저렇게 저거 마시고 저렇게 바로 취한다고 취한거 맞넼",
+        "writer": "UgxkOgpnMkeqinfsXZZ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손소독제로 쓰자",
+        "writer": "Ugy1mK3VTxndq4u7aCB4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "033 와 오빠 이 표정 그대로 인형으로 만들어서 주머니에 쏙 넣어댕기고 싶어요 그리고 원래 제 인형들은 한번씩 펀치를 맞 큼 때리진않을게여 작고소중해요",
+        "writer": "UgwteKYjs29Wf6Y_KIl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코로나는 감염되면 목(비속어)부터 증상이 시작됌 불안하면 예방차원에서 스피리터스로 목(비속어)소독 하는것도 괜찮음 도수가 96도라",
+        "writer": "Ugwkh3_6MOV-xTipdPF4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머냣 준디님 진챠 너무 귀엽쟈나",
+        "writer": "Ugw34Db2DipcwYLjSi94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술만 마시면 바로 취해버리는 당신 매력적이야",
+        "writer": "UgzUpeBG1WMSnWzEIvB4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "96이라니먹는게 아니자나여 자꼬 술먹고 취해서 긔여어지면 베라 쿠앤크 하프갤런으로다가 사줄라니까쒸익쒸잌대충 머 술먹방 종종 해달란 얘기그치만 걱정되니깐 숙취해소제 챙겨가면서 알죠",
+        "writer": "UgwBcfa7fRavYIxqBw54AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간식 사오는거 너무웃기넼",
+        "writer": "UgwaZyjLcHmn4I9J2nh4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디 식도다녹는다",
+        "writer": "UgyqINko-_3MoXryhf14AaABAg.916fO8-OGUX918SWK2bJ6K",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디서 사셨나요마셔보고 싶네",
+        "writer": "UgyqINko-_3MoXryhf14AaABAg.916fO8-OGUX92MqemJKU7N",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "UgwaZyjLcHmn4I9J2nh4AaABAg.92GxFeuRDil92PtLCnjHD5",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더러운 맛 쒀주 기여워요",
+        "writer": "Ugx0bB94pqN2mKkIulx4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "045 표정 너무 귀여워쿸 근데 전 왜 준디님이 술병따는게 섹싀하죠흫허레레헤헿근뎈307심장잡고 쓰러짐오빠는 그런사람이어서 좋아요",
+        "writer": "Ugy4odXB2kfaCAKUIlB4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 준디 (비속어)사랑해",
+        "writer": "UgyOldac6wUqJzSBTKJ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 진짜 (비속어) 기엽네 증말루다가",
+        "writer": "Ugx3fYRj_pcxHefAWT54AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술만먹었으면 좋겠는 뭐가 그렇게 혼자 다 귀여워 지져스",
+        "writer": "Ugz4nd_0gxW51n5eohp4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 취하는거 짱신기해여",
+        "writer": "UgwaELpxRYlAbKl4O0p4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 (비속어) 너무 귀여워내 최고의 수능선물은 오빠 영상",
+        "writer": "UgyWOgjjzO8ESVpkMel4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 기여워",
+        "writer": "UgxgFMIhMZxynZSsjuZ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 그래서 저 맥주 조금 소주 조금 먹고 취한거에요 아 증말 귀여워 죽겠네 어휴",
+        "writer": "UgwAYfQuIz0uSR1l11t4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 웃곀",
+        "writer": "UgwrO0n1skpv0tSlS5J4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종이컵인데 불을 붙친다라 음 뇌가 순수하군",
+        "writer": "UgzPkDB7mtaVa5AC7KB4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "되게먹는구만 갑자기 생각났다",
+        "writer": "UgyERyd-4WZQFu51qgx4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어) 당신 날 30초만에 구독하게만든 유일한 남자야",
+        "writer": "UgzpcB94hBONjx_suS94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뿜는겈모얔313 아 넘 귀여웤쨘 나오는 거 흑흑 사랑해요",
+        "writer": "Ugz3fTa7aWWpsMBiSsd4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "96이란 숫자부터 너무 강렬한데",
+        "writer": "UgxFmGKk0sEizDCvlUF4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 내려갈 떄 알콜요정이 아니라 최종 보스몹이군요",
+        "writer": "UgzTWkVF41X_WsEusj54AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 저렇게 먹는 거 아닐 것 같",
+        "writer": "UgwszjoxBF96-wzh3ox4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 어느정도일지 상상도 안되네욘숙취해소제는 드시고 하셧어요",
+        "writer": "Ugwck8_eg8IKAVEEpOt4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닌척하더니 결국 주머니에서 밤이 선물 나오는 거 너무 귀엽잖아요",
+        "writer": "UgxU1HoWF-bnWvlYUGx4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘모 고마워요 챈여띠",
+        "writer": "Ugx0bB94pqN2mKkIulx4AaABAg.9271LptBhJX92PsjSIdnDf",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 사랑하는거알지 술찌 준디 좋아해줘서 고마워요",
+        "writer": "Ugy4odXB2kfaCAKUIlB4AaABAg.91RhGk568fK92-h0vOoMSp",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채원띠 항상 고맙고 사랑합니다",
+        "writer": "UgyOldac6wUqJzSBTKJ4AaABAg.91P8YP7w7_e92-djW3D1iZ",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "Ugx3fYRj_pcxHefAWT54AaABAg.91N9Z7KtcSQ92-dBsntaHh",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜림이 항상 사랑합디다",
+        "writer": "Ugz4nd_0gxW51n5eohp4AaABAg.91MdUOwzcBG92-dBAOr0gU",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 내 몸이 신기해항상 고마워",
+        "writer": "UgwaELpxRYlAbKl4O0p4AaABAg.91MbvE9jk0J92-d9nKYqUS",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 너무너무 고마워",
+        "writer": "UgyWOgjjzO8ESVpkMel4AaABAg.91LuHiQz5g092-d7kxpQGW",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 사랑합니다",
+        "writer": "Ugxx0-74FwhmROSRP2h4AaABAg.91J7BEGIKPx92-d4u6DVhq",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 너무 고마워 항상",
+        "writer": "UgxgFMIhMZxynZSsjuZ4AaABAg.91GhxygmB_R92-coQMAvIU",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요바로 취해버립니다",
+        "writer": "UgwAYfQuIz0uSR1l11t4AaABAg.91ERTg6Z3FX92-b8w_Q6Oe",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "UgwrO0n1skpv0tSlS5J4AaABAg.91CWr2Jx2Fo92-b5YxzqO1",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)항상 감사합닏",
+        "writer": "UgzPkDB7mtaVa5AC7KB4AaABAg.91CUafmiPY892-b5-wtwbe",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 잘 아는구만 사랑합디다",
+        "writer": "UgyERyd-4WZQFu51qgx4AaABAg.91CNZMF86ED92-b3poZxKT",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준댕이가 도니걸 환영합디다 늦었지만 사랑합니다",
+        "writer": "UgzpcB94hBONjx_suS94AaABAg.91Bmc9fW53s92-b2fnKB4f",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 저도 사랑합니다",
+        "writer": "UgzpcB94hBONjx_suS94AaABAg.91Bmc9fW53s92-mLlBkFwC",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 맛없었어옄",
+        "writer": "Ugz3fTa7aWWpsMBiSsd4AaABAg.91BChjUcVs792-b1Lw4gWZ",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 강렬했습니다항상 고마워요 준댕이",
+        "writer": "UgxFmGKk0sEizDCvlUF4AaABAg.919xuIvksYl91ssCqVO1fB",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보스몹 진짜 인정",
+        "writer": "UgzTWkVF41X_WsEusj54AaABAg.919bNpQmgfc91ss-Gbl0Be",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 아냐절대아냐혜영띠",
+        "writer": "UgwszjoxBF96-wzh3ox4AaABAg.919TVCccA3791srzNagzlo",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디 와 이름불러주는 유튜버는 처음입니다 미칭",
+        "writer": "UgwszjoxBF96-wzh3ox4AaABAg.919TVCccA3791st5IK1uve",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 윤희 항상 고마워요 아니 안먹었어",
+        "writer": "Ugwck8_eg8IKAVEEpOt4AaABAg.919PyZgsQoh91sry9P3UaO",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요",
+        "writer": "UgxU1HoWF-bnWvlYUGx4AaABAg.919DaqJid-T91srwiRtdYf",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "222 스피리터스의 위력에 실성함316 밤이랑 케미 넘 돟음",
+        "writer": "UgwStQUxnOU8M_NKNcR4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이건 내가 젤 조아하는 술 먹는 영상이잖아 이번 영상을 통해 다시 한 번 느꼈습니다 제 이상형은 술 못 먹는 남자 진짜 얼굴 빨게지는 거 넘 귀여워요 오빠 내꺼 그냥 내꺼 제가 항상 사랑합니당",
+        "writer": "UgyqxKkHT2Y0DW7_lc94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 술먹방 하실때마다 이득 보는건 밤이 밖에 없는 것 같은 느낌",
+        "writer": "UgzNFWpIVps4ziFzihF4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "244 종이컵도 타고이짜나 (비속어)얔",
+        "writer": "UgwMp1YHh_z8BkwSBTN4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 사랑스러운 (비속어)이다 준디 뀌여웡",
+        "writer": "UgwPF0_VhHAJdiiQp9N4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩐지 오늘은 왜 츄르 안나오나 했넼 안그래도 알쓰인 사람이 독한 술을 마셔욧",
+        "writer": "Ugx9UK2IANcex3f95t94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 개웃곀 종이컵에 담긴 보드카에 불 왜 붙이냐구여쿠쿠 위허매",
+        "writer": "UgyrZpxJEn9Nh1CbtI54AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 취했엌진짜 너무귀여워",
+        "writer": "UgxKfZ3_HwvoEwHpIq94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이마이 귀여우면 어짜누",
+        "writer": "UgzT41eaD_VQSXhINAx4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 도전정신 장난 아녀 근뎈 저거 무슨 냄새에여",
+        "writer": "Ugyb2HMvcznaPO8zYkR4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토닉이나 레몬즙을 희석해서 드셔야죠 그냥먹더라도 얼음이나 용기가 대단합니다",
+        "writer": "UgxboAkWQHuClhfzYyV4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술마시는 모습은 귀여운데 저정도면 마시지마요",
+        "writer": "Ugw-Gz5_Jq02i8J8VDl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스리피터스 저희가게에서 불 불때 쓰는술 없을때 가끔 쓰는건데 저거 머금고 잇어도 입안 헐어요 퓨 오빠순하게 이슬톡톡 먹읍시다",
+        "writer": "UgzlIp6XMBCIRlS7j1R4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 분무기인가",
+        "writer": "UgxIY1QZ-Q-1SC1b9Wl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미안해요 준디님 저도 술먹고 보는거라 토할거같",
+        "writer": "UgxJCs1wikodIVHwkyN4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "130 형은요",
+        "writer": "Ugy6_0pdJAIdqWepXC14AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로뱉어버리는거 왜케웃곁",
+        "writer": "Ugz2AWhyGpzTGt51YYN4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 오(비속어) 또 술리뷰를오빠 왜 소주 싫어해요 소주가 최곤데 힝힝힝힝 오빠 그리고 보드카는 토닉아님 주스랑 섞어 드세용 난 오빠의 위가 걱정된다구여섞어 먹으면 (비속어)맛헿",
+        "writer": "UgyX4YT2KmaDmBrOIsl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워누우아우워 꺄가가아아아가가아 평생 맥주만 마셔 그냥",
+        "writer": "UgwToqa7cYfYitsKNel4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요",
+        "writer": "UgwStQUxnOU8M_NKNcR4AaABAg.9192CuAoURr91srhpa48x1",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 연우 너무너무 고마워요 이제와서 미안해",
+        "writer": "UgyqxKkHT2Y0DW7_lc94AaABAg.918y99WpIh491srg45FZKq",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닙니다 오빠는 늦게왔어도 저는 항상 보고 있었는걸요",
+        "writer": "UgyqxKkHT2Y0DW7_lc94AaABAg.918y99WpIh491srteN7_ZV",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 채원이 너무 늦게와서 미안해요",
+        "writer": "UgzNFWpIVps4ziFzihF4AaABAg.918i-V4UQgl91sreQVjxuR",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디 아니예요 요즘 저도 늦어서 죄송합니다",
+        "writer": "UgzNFWpIVps4ziFzihF4AaABAg.918i-V4UQgl91stBHl8NuY",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종이컵인걸 깜빡",
+        "writer": "UgwMp1YHh_z8BkwSBTN4AaABAg.918WNNkxZTr91nbFMCxwwR",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다히 항상 사랑합디다",
+        "writer": "UgwPF0_VhHAJdiiQp9N4AaABAg.918TlKbDtKG91nbDrVQt3d",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요우리 준댕이들에게 위험함을 알려주기위함이도다",
+        "writer": "Ugx9UK2IANcex3f95t94AaABAg.918NxrzexpA91nbCGi5CZI",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 궁금했어우리 준댕이 항상 사랑해 너무 늦게와서 미안해여",
+        "writer": "UgyrZpxJEn9Nh1CbtI54AaABAg.918JvM7zavu91nb7W5TSPZ",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워",
+        "writer": "UgxKfZ3_HwvoEwHpIq94AaABAg.918ELuV7JT291nb5Rl1jnP",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 사랑합니다",
+        "writer": "UgzT41eaD_VQSXhINAx4AaABAg.918AAbLf0u291nb4LxQHJT",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 수진띠 항상 사랑햌 소독약 냄새",
+        "writer": "Ugyb2HMvcznaPO8zYkR4AaABAg.9183lcQ83Yr91nb0oqIx3r",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악 소독약 냄새랭",
+        "writer": "Ugyb2HMvcznaPO8zYkR4AaABAg.9183lcQ83Yr91nclsTz5x0",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엌준댕이 항상 감사합니다",
+        "writer": "UgxboAkWQHuClhfzYyV4AaABAg.91820pNYhxp91na2ARAXGs",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 늦게왔다 오송이 너무너무 고마워요",
+        "writer": "Ugw-Gz5_Jq02i8J8VDl4AaABAg.917wy1Qtlp-91na0amwTJY",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 저건 소독약이였어 이슬톡톡 러브",
+        "writer": "UgzlIp6XMBCIRlS7j1R4AaABAg.917uZmd_NF-91fsDO9l60P",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분무기 맞아요",
+        "writer": "UgxIY1QZ-Q-1SC1b9Wl4AaABAg.917taiphEOL91fsAthaVCO",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나중에 봤길",
+        "writer": "UgxJCs1wikodIVHwkyN4AaABAg.917jfjtDfwR91fs9SnrgiP",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 그럴수밖에 없었엌",
+        "writer": "Ugz2AWhyGpzTGt51YYN4AaABAg.917QLnZPGsO91fs4Fd7pNb",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소주 못먹겠어요항상 고마워요 조심히 먹을게",
+        "writer": "UgyX4YT2KmaDmBrOIsl4AaABAg.917Mpom7sfM91frya1fY3i",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 사랑합디다",
+        "writer": "UgwToqa7cYfYitsKNel4AaABAg.917M6c8s1Es91frq5qnaLb",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 당근띠 사랑합니다",
+        "writer": "UgwToqa7cYfYitsKNel4AaABAg.917M6c8s1Es91hr3mHQ-it",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디 답글 두번이나 달아주고 열일하시네여",
+        "writer": "UgwToqa7cYfYitsKNel4AaABAg.917M6c8s1Es91hszc9lk8T",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "UgxJB3jp6fGuZ5FIPCN4AaABAg.917LoxVtETT91frEjNJC7_",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 빨간뚜껑도 못먹는 술찌가 저렇게 독한 술을 도전을 왜 해봐 으이구 불장난은 왜행 으이구 술먹고 간식 사온거 봐 진짜 그거 먹구 취한거야 뭐 이리 귀여운데",
+        "writer": "Ugyrfvr7uJovdx6s0OB4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일보고 제체기 하는줄 알았어요",
+        "writer": "UgxSmXunz3D93NePIrZ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 술 원래 희석시켜서 먹으라고 있는거 아니였음",
+        "writer": "UgwCbzKIMpyr79K0M0h4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0207 손가락봐 엣지",
+        "writer": "Ugx48g389HgtbtozTFp4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 인스타도 하시나용 소통하고 싶어용",
+        "writer": "UgzpLvgDNdgpS2JQX3d4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디한테 제 심장을 뚜드려 맞아서 터져버렸습니다 책임지고 결혼해주세요",
+        "writer": "UgxofWATYkJKSefv8dt4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 술찌가 술먹방하는게 제일재밌닼큐",
+        "writer": "UgxdqK6rDPdx_pFvhfV4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 평생 술만 마셔줘요 오(비속어) 술 마실때가 제일 조아 제일 귀엽고 제일 깜찍하고 제일 사랑스러워주거 술 마시는 거 귀염뽀쨕 미쳐 한국 돌아왔다니 뿌엥 같은 나라 땅을 밟고 있다니 이 자체로 성덕",
+        "writer": "Ugw9NYHh2oToofZs5v94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집근처 편의점알바도 이제 기억할듯 준디님 아이스크림사면 츄르 항상 사가는 분이라구",
+        "writer": "Ugxw1230B_jZuZhMKbx4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개웃 술주정개웃기노",
+        "writer": "Ugy4uGG2J_0amEpwL1x4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중에 (비속어)",
+        "writer": "Ugyjqieeoh63OFljmeR4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아아아아아 백만년 천만년이에요 오늘도 술 마시고 스프라이트가 아닌 스프리터스 샤워 알코올 분무기 너무 인간미 넘치구요 항상 취기 올라왔을 때 마 내가 마 이러면서 밤이 츄르 챙겨주는 것도 너무 귀염뽀짝하구요 보드카 불 붙이고 호호오 호오하는 것도 세상 유튜버 소련언니를 넘어서 박력 넘치구 오늘도 저는 준디오빠 계신 곳을 향해 절을 박는다구요 스릉합니당",
+        "writer": "Ugw3kPnJx1OjfYg9-N14AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 귀엽다요진심",
+        "writer": "UgxrR8GPiakJDNcnyBZ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 스피리터스 다 마시면 나랑 만나는거에요 덜렁",
+        "writer": "Ugw_bR_0B6hem3hJJZ14AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 귀엽잖아요 취하능 준디 근데 봐도 진짜 취하는 느낌",
+        "writer": "UgxKE6Bhss3cPnEyS8p4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모야 더 잘생겨진거가타욤",
+        "writer": "UgwCkfXQPoDEOzmRtTR4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 남자가봐도 너무 귀여운거 아님나랑도 마셔줘",
+        "writer": "UgxSlkrZMF4JY1BLhZZ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 입 안에 들어갔다 나왔는데 피 안나왔어요",
+        "writer": "UgztH2A0ChVeAdiCt614AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 취할수밖에 없었다구요",
+        "writer": "Ugyrfvr7uJovdx6s0OB4AaABAg.917J5pS_V7n91frDziQ2vw",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재채기면 그거대로 멋지자나 항상 고마워요",
+        "writer": "UgxSmXunz3D93NePIrZ4AaABAg.917HHCqkAB_91frCUlGCgR",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요",
+        "writer": "Ugx48g389HgtbtozTFp4AaABAg.917Fha8Q5H891fr9lrxl7n",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요 입니다",
+        "writer": "UgzpLvgDNdgpS2JQX3d4AaABAg.917EYNMMkJQ91fr7cI7sCy",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마웡 우리 빈수 드루와",
+        "writer": "UgxofWATYkJKSefv8dt4AaABAg.917C3NELu-P91fr5otA3vp",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 사랑합디다",
+        "writer": "UgxdqK6rDPdx_pFvhfV4AaABAg.917BU7zx4Ji91fr4F_01yI",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "Ugw9NYHh2oToofZs5v94AaABAg.917AeUZ7Pqu91fr3QTPDpa",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디 흐잉 오빠 팬미팅 소식 들려오면 바로 달려갈게요 존버중",
+        "writer": "Ugw9NYHh2oToofZs5v94AaABAg.917AeUZ7Pqu91fs1p78fm6",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 기억하죠 얼굴만 빨개지면 츄르를 사가버리니",
+        "writer": "Ugxw1230B_jZuZhMKbx4AaABAg.9179gj7EkoR91fr2bRYwYM",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "Ugy4uGG2J_0amEpwL1x4AaABAg.9178MP4NF2591fr0oUzD4e",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워욬소독 완료",
+        "writer": "Ugzyfeg0CKknGQF8wnB4AaABAg.9176yOQ9yM291fqwh0wVi1",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 혜령찌 항상 고마워요 이렇게 오다니 사랑합디다 제가 더",
+        "writer": "Ugw3kPnJx1OjfYg9-N14AaABAg.9176dRgVZrL91fqvu48Nht",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디 탈덕이 절대 네버 아니라요 제가 올해 고3이여서 잠시그랬던거거든요오옹",
+        "writer": "Ugw3kPnJx1OjfYg9-N14AaABAg.9176dRgVZrL91fr3MvZcxr",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요",
+        "writer": "UgxfIEAZ_8EvdRTUgZp4AaABAg.9174jJDVtn391fqtf6uPXO",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "UgxrR8GPiakJDNcnyBZ4AaABAg.9174c3rHpJj91fqsuI3wMu",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "답글 와 세상 멋있다요",
+        "writer": "UgxrR8GPiakJDNcnyBZ4AaABAg.9174c3rHpJj91gAIsB6aAz",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요",
+        "writer": "UgxKE6Bhss3cPnEyS8p4AaABAg.9173FNgdPsW91fqJZYpz4_",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "UgwCkfXQPoDEOzmRtTR4AaABAg.917351gxDkg91fqIOUtrTv",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드루와 술다이",
+        "writer": "UgxSlkrZMF4JY1BLhZZ4AaABAg.9172ousQhYz91fqHn4rR7j",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피나오면 진짜 휴항상 고마워요",
+        "writer": "UgztH2A0ChVeAdiCt614AaABAg.9172JeNdszT91fqH0yBjcZ",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 힘들었던 하루를 기분좋게 마무리해주는 준디님 술뿜는 모습도더럽",
+        "writer": "UgxW59xEKZbw-rqOCQx4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주량 한방울인 우리 형님은 사랑이죠",
+        "writer": "Ugz676PBKTdPZTB409t4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5일뒤 수능인데 이거 보는 나는 준디라 보는거다 오늘도 영상 왜케 귀엽냐곸 대체 안제부터 취한건지 모르겠는 영상 좋은 영상 고맙고 좋은 하루보내세여9",
+        "writer": "Ugw4LlrdAGn7djYdV454AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 왜 알람 안떴지 술영상하면 준디지 귀여오요 술뿜는거 개웃겨",
+        "writer": "UgycGam1943mWTRsFLh4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런거마시지말아요 잘못하면 위상해요 아니면 칵테일로만들어마시던지요",
+        "writer": "UgwObioPDcthNfr8BJN4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쵸따 보기만해도 목(비속어) 따가오",
+        "writer": "Ugwrax1_7MwnZInTLlx4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 유튜버가 저거 원샷하고 시원하게 게워내는 걸 봤습니다 부디 위험한 일은 하지 말아요",
+        "writer": "Ugzi_q2ALk3Hi_zqXxt4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 정돱준뒤 너므 커여우시군요 퓨븦븝부",
+        "writer": "UgwOuYiZeVkj6h8l0o94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 보기만해도 엄청독해보이네요",
+        "writer": "UgwaSspxdXM7Cvzp7J54AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 늦게 왔다 오빠 술도 못머시면서 맨날 술 이제 쓴거는 안먹는걸로 사랑해용",
+        "writer": "UgxSf5ryV22NWyVmGAV4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아 진짜귀요어",
+        "writer": "Ugxgc1WVrMo8CrNpm8Z4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "157 씨쥔 줄 알았넼 그리구 저렇게 불까지 붙는데 저렇게 살아있는 것만으로도",
+        "writer": "UgwdVtXNPRa0pxJiWTB4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "106 147 244 아 귀염둥",
+        "writer": "UgxuDxCZTWXHhtGiWcR4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 153초 헛웃음 뭐죠 계속 그렇게 웃어주세요",
+        "writer": "UgyOB59Mc3BYShPaM4l4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 소주 마시고 웅엥웅하는거 귀여워하는데 스피리터스 먹고 갑자기 뿜어서 놀랐어요 술만 마시면 아이스크림 먹는 준디 그와중에 자기 간식 사온거 눈치까고 애옹거리는 밤이 넘넘 귀여버요",
+        "writer": "Ugx2xbyguetxLWs2G4V4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술마실때 한층 더 귀여워져미쳐 정말 사랑해요",
+        "writer": "UgwDCa1StUBQ7g0NtyZ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술마시면 귀여운 사람 준디",
+        "writer": "Ugz0XKpK36aR8F0V1-d4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자취하고 잘 취하는 남자 바로 준디였군요 딱 기다리세요 지금 갑니다",
+        "writer": "Ugw2Dw28lOI68a5X_xN4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너뮤 귀여우세여",
+        "writer": "Ugxo98p6ps393LYTMC94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요 정말",
+        "writer": "UgxW59xEKZbw-rqOCQx4AaABAg.9171WbY5tQf91fqEdjvfwP",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 뇽용이 항상 고마워",
+        "writer": "Ugw4LlrdAGn7djYdV454AaABAg.916zd6iKQTh91fpr0RMbpH",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 리아 항상 고마워요",
+        "writer": "UgycGam1943mWTRsFLh4AaABAg.916z_1cRC6S91fpmBX5Nn9",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래야겠어요칵테일 각 항상 사랑합디다",
+        "writer": "UgwObioPDcthNfr8BJN4AaABAg.916yIViA9wv91fpj-scbG5",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디 영원히팬할꺼에요",
+        "writer": "UgwObioPDcthNfr8BJN4AaABAg.916yIViA9wv91fuNSQIDZ0",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 저건희석 무조건",
+        "writer": "Ugwrax1_7MwnZInTLlx4AaABAg.916y7QUdSnF91fphMmk7yJ",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알겠습니다 걱정해줘서 고마워요절대 안먹어야지",
+        "writer": "Ugzi_q2ALk3Hi_zqXxt4AaABAg.916vwdqtbJ_91fpgE-apZQ",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정답 준듸",
+        "writer": "UgwOuYiZeVkj6h8l0o94AaABAg.916uhMDJ3pE91fpbLJooOT",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛이 그냥 잊을수 없는 맛 항상 고마워요",
+        "writer": "UgwaSspxdXM7Cvzp7J54AaABAg.916uQOEmooP91fpaTKFmBV",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제든 늦어도 괜찮아요 우리 준댕이 항상 사랑해요 술 줄일게",
+        "writer": "UgxSf5ryV22NWyVmGAV4AaABAg.916te7LpSuv91fp_KqzXaV",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채원띠 항상 사랑합디다",
+        "writer": "UgzVIa1fJYGA1d5MZDl4AaABAg.916tZCWDVMn91fpYuGLCcu",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송송이 항상 고마워요",
+        "writer": "Ugxgc1WVrMo8CrNpm8Z4AaABAg.916tGR18Ih191fpY5nbRid",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 세움이 항상 고마워요",
+        "writer": "UgwdVtXNPRa0pxJiWTB4AaABAg.916t2oCzHFe91fpXKdDlZ0",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 블리원 항상 고마워요",
+        "writer": "UgxuDxCZTWXHhtGiWcR4AaABAg.916t-2KidIo91fpWb4_2hi",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 사랑합디다 우리 주니",
+        "writer": "UgyOB59Mc3BYShPaM4l4AaABAg.916s0GPXAyK91fpVq8ar1n",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스피리터스 너무 빡세서 진짜 못먹겠어요항상 고마워요 우리 준댕이",
+        "writer": "Ugx2xbyguetxLWs2G4V4AaABAg.916qlZEffKh91fpUuEhrrg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 한별띠 제가 더 사랑합디다",
+        "writer": "UgwDCa1StUBQ7g0NtyZ4AaABAg.916qIh4IpW191fpTEeBy8A",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요",
+        "writer": "Ugz0XKpK36aR8F0V1-d4AaABAg.916pCe59tJm91fpKtwhs-j",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 사랑해요 정말",
+        "writer": "Ugw2Dw28lOI68a5X_xN4AaABAg.916pBJ9de8t91fpJrNHHVe",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘모 고마워요",
+        "writer": "Ugxo98p6ps393LYTMC94AaABAg.916oNFbpr1y91fpIfDmoBN",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "313 타노스를 빙자한 준노스 그거슨 츄르였다",
+        "writer": "UgzB0ebY8CiemuHKElR4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 오빠 진짜 넘 기엽다 저번처럼 술 마시고나면 항상 등장하는 아이스크림에 꼭 주머니에 사오는 밤이 선물 체고야",
+        "writer": "UgxpQUY7fhZ-UNjUtR94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 잘 안 쓰는데 이건 진짜 너무 귀엽자나요339 위하여",
+        "writer": "UgydHZuodHANEUjt4HZ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 전에 공연 팀 엠티 갔을 때 멤버 중 한 명이 저거 가져오셔서 맛본 적 있는데 입이 얼얼할 뿐 아니라 식도의 길이를 체감할 수 있습니다 더불어 위의 위치도 뱉길 잘하셨어요",
+        "writer": "UgwlwuBR6rQmzSxKtnh4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "030 뿜었네 준디 편집실력 늘은거같아요 재미지당 그리구 개인적으로 준디는 술먹는게 최고 귀욤",
+        "writer": "Ugzb-Z-8U2Wqb4h2kgl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "226246짱 귀엽다 진짴 사랑해요",
+        "writer": "UgzhQSnI7sktsQPYB7x4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴빨갛게 된거봐",
+        "writer": "UgxWQyzzgr_2CUn1MrJ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술 취한 모습이 이르케 귀여우면 오또카지 준디는 사슴일지 몰라 내 맘을 녹용",
+        "writer": "UgygZG5SFpapRkQ3fbl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬이 넘 자극적이네요저만 보게 여기로 보내주세요0106",
+        "writer": "UgxA0wwQ-eY2ZFw3Cx14AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간식 양손에서 나오는거 개웃기넼정답 준딬킬링포인트닼큐",
+        "writer": "UgwvlpLE4Rgfl3jLvbR4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뱉는겈아 같이 뿜었네요 역시 양주보단 소주죠",
+        "writer": "UgzNtaDXMyo_rHerX2V4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디님 술먹방 유튜버죠",
+        "writer": "UgyIK1QO5DdQdp90Gv54AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "033 045 표정 어쩜 귀엽누",
+        "writer": "Ugy_B6mBRdDL36BxsHB4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 귀여워여",
+        "writer": "UgxaKkEvGIWOs5ddTBF4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디 다쳤을때 소독용으로 쓰는게 더 맞는듯한 술",
+        "writer": "Ugw2NchtV90Zcir72Ll4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준또취 따갑다닠 넘모 궁금해요 스피리터스 마시기 전에 부모님 다음 형님 나올줄알았는데 갑분 준댕이에 심쿵 오빠 찐사랑에 행복해요 엉엉",
+        "writer": "Ugy-eHVACKQ3lCudPSl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선 댓글 후 감상 하러 감니다 총총",
+        "writer": "Ugy920UXV9amE2-wEqt4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입이 분무기에요",
+        "writer": "Ugz9qQINDcKbsPqnkKN4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뿜는거 먼데 알쓰지만 항상 도전하는 그박수를 보내알콜영상 엔딩엔 늘 풀린 눈과 빨간 얼굴",
+        "writer": "Ugw_yZswP_DxlFfEtT94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요 우리 준댕이",
+        "writer": "UgzB0ebY8CiemuHKElR4AaABAg.916nuLllxE891fpI808sUi",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요",
+        "writer": "UgxpQUY7fhZ-UNjUtR94AaABAg.916mqQeZrYm91fpHGhE3mG",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘모 고마워요 은비띠",
+        "writer": "UgydHZuodHANEUjt4HZ4AaABAg.916mDZLYplL91fpGSIunTp",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 우리 뿌야는 이미 맛을 알고있구나항상 고마워",
+        "writer": "UgwlwuBR6rQmzSxKtnh4AaABAg.916kEmcciXD91fpFlyHeU0",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요 서연띠",
+        "writer": "Ugzb-Z-8U2Wqb4h2kgl4AaABAg.916jcAYh_yk91fp5u2TRgp",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 더 사랑합디다",
+        "writer": "UgzhQSnI7sktsQPYB7x4AaABAg.916jDprGsiW91fp4zQxMdR",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 빡세여",
+        "writer": "UgxWQyzzgr_2CUn1MrJ4AaABAg.916j1UR0Wpy91fp4DzbwQn",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 민아 항상 고마워요 녹용",
+        "writer": "UgygZG5SFpapRkQ3fbl4AaABAg.916ikOeXQbn91fp3RKjE88",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "UgwvlpLE4Rgfl3jLvbR4AaABAg.916hCpyZ_Xo91fowBdpaLp",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 싫엌",
+        "writer": "UgzNtaDXMyo_rHerX2V4AaABAg.916hBayfS5491fovYLyD1V",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩌다보니 자주 먹게되네 항상 고마워 소현띠",
+        "writer": "UgyIK1QO5DdQdp90Gv54AaABAg.916gxzImVbp91fouhKlrtH",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 사랑합디다",
+        "writer": "Ugy_B6mBRdDL36BxsHB4AaABAg.916ggNfKQjJ91forU_xv-S",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 (비속어)가 더 귀여워여 항상 고마워요",
+        "writer": "UgxaKkEvGIWOs5ddTBF4AaABAg.916gQk5cq4L91foqHItqC-",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 인정합니다",
+        "writer": "Ugw2NchtV90Zcir72Ll4AaABAg.916gLnv1x8h91fooe2Yxdu",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요 주희 띠 저거 맛이그냥진짜 소독약이야",
+        "writer": "Ugy-eHVACKQ3lCudPSl4AaABAg.916g77-KEqD91fonhb7Pny",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 고마워요",
+        "writer": "Ugy920UXV9amE2-wEqt4AaABAg.916fy1C0qwF91foluezjda",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자동적으로 그렇게 나왔어 항상 고마워요",
+        "writer": "Ugz9qQINDcKbsPqnkKN4AaABAg.916fvAIOI7n91fok1Itfd0",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 사랑합니닫 집수니",
+        "writer": "Ugw_yZswP_DxlFfEtT94AaABAg.916frcTyky491foj-poheg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 뱉으셨어요삼켰으면",
+        "writer": "UgzsWKlW4pnmIRUfbTd4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빈속은 아니져큐큨큐큨큨큐큨콬",
+        "writer": "UgyvNgNyOD1SkmEk5SN4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0237불장난 신고는 119",
+        "writer": "UgwEraJAl8gMocL87q94AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 술 병뚜꽁으로 마야뱉은거 뭐냐궄난리났다 아주기냥오빠 토닉워터랑 섞어마셔봐요",
+        "writer": "UgwZLxn103Ty2KIJMEZ4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디님 안아주고 싶어요",
+        "writer": "UgynB0AKizo1uz2bG7N4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 경쟁자가 생겼어 1등을 2번이나 못했어 순위는 중요하지 않아그냥 난 준디님이 좋을뿐",
+        "writer": "Ugz93LnTRam27BfBeNl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 너무 귀여워",
+        "writer": "Ugzr4nwMUKK9cXns3kl4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선댓글 후감상 오늘도 역시나 광고보는중 헤헤",
+        "writer": "UgwD9zLqYexkO-CGt1N4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결론0157 이게뭐야0218 취햇다취햇닼",
+        "writer": "UgzEUCv9n0t2Y6om_TF4AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1등 넘 귀여운거 아닙니까",
+        "writer": "UgxG10RA7DdWRtNdHe14AaABAg",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 죽었다 나는 항상 고마워요",
+        "writer": "UgzsWKlW4pnmIRUfbTd4AaABAg.916fpWKo3kW91fohmP-L6m",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니였어 항상 고마워 우리 준댕이",
+        "writer": "UgyvNgNyOD1SkmEk5SN4AaABAg.916fo58nsbG91fogss2ART",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워 우리 만갱이 저 술은 봉인이다",
+        "writer": "UgwZLxn103Ty2KIJMEZ4AaABAg.916fjELSVNh91foelIkOQ9",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 수정이 항상 고마워요",
+        "writer": "UgzY_EGXPUcp-2ipw394AaABAg.916fi-Uffh391fodFvaD-F",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 댕댕이가 더 항상 고마워요",
+        "writer": "Ugy6kbxZWEBNXuf84h94AaABAg.916fU8ZUvum91focVnBAD_",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안아주시져항상 사랑합니다",
+        "writer": "UgynB0AKizo1uz2bG7N4AaABAg.916fQioMoKu91fobc5Vu7C",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 준댕이 항상 사랑해요",
+        "writer": "Ugz93LnTRam27BfBeNl4AaABAg.916fQB8y4qU91foVQcjUrx",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "환희 항상 고마워요",
+        "writer": "Ugy1a2Q8kzekCou8SHd4AaABAg.916fNQ5VzKc91foUVT8XuH",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준디 제가 더 감사합니다",
+        "writer": "Ugy1a2Q8kzekCou8SHd4AaABAg.916fNQ5VzKc91fqtNvmNLt",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주희 항상 고마워요",
+        "writer": "UgwD9zLqYexkO-CGt1N4AaABAg.916fMHd2YUG91foTN6eBw-",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서현띠 사랑합디다",
+        "writer": "UgzEUCv9n0t2Y6om_TF4AaABAg.916fJGx66zQ91foSPfSMT5",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 고마워요",
+        "writer": "UgxG10RA7DdWRtNdHe14AaABAg.916fF2LlQLl91foRZI0qgi",
+        "write_date": "2020-08-19",
+        "url": "https://www.youtube.com/channel/UCTjVTRluDpKUPbpHF29DqyA",
+        "parent_url": "https://www.youtube.com/watch?v=W8TIEJUqCbA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}
