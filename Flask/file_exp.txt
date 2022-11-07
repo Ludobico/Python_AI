@@ -1,0 +1,11 @@
+데이터베이스를 처리하는 models.py 파일
+
+서버로 전송된 폼을 처리하는 forms.py 파일
+
+화면을 구성하는 views 디렉터리
+
+CSS, 자바스크립트, 이미지 파일을 저장하는 static 디렉터리
+
+HTML 파일을 저장하는 templates 디렉터리
+
+파이보 프로젝트를 설정하는 config.py 파일
